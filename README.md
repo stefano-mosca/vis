@@ -1,5 +1,7 @@
 # My vis config
 
+<img width="1346" height="540" alt="screen" src="https://github.com/user-attachments/assets/ba81c030-1df3-4074-9b28-106c4e4ad464" />
+
 Personal [vis](https://github.com/martanne/vis) configuration.
 
 Features:
